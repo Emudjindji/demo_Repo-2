@@ -9,7 +9,9 @@ Ex :
 
   cin >> userName;   // here we are retriveing the user's name.
 
-  cout << "Welcome << name << endl;  / here we are displaying the user's nAME ON THE SCREEN
+  cout << "Welcome << name << endl;  // here we are displaying the user's name on the screen.
+
+  #10/13/2024/##
 
   
   
