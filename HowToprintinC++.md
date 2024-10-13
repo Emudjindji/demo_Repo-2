@@ -13,5 +13,17 @@ Ex :
 
   #10/13/2024/##
 
+## Subheader
+
+How to work with if statement  in c++. 
+
+if(condition)
+{
+  if it meet the condition do this
+}
+
+else{
+  do this . 
+}
   
   
