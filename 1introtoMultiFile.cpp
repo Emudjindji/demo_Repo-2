@@ -10,6 +10,9 @@ int main()
 {
 
     string person_name = "Blandine";
+    string person_name2 = "justin";
+
+    welcome(person_name2);
 
     welcome(person_name);
 
