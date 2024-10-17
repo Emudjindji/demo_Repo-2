@@ -1,0 +1,9 @@
+#
+// i will be teaching hiow to print and  get user input in java
+
+// display
+  console.Realine("My name is Etienne");
+
+// read
+
+name  = console.inString();
