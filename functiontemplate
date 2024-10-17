@@ -1,0 +1,14 @@
+// fucntion template or generic function
+
+
+ template <typename, T>
+
+ // and t can be replace for any time. 
+void swap(T &x, T &y)
+{
+    // we can use t as integer or any thing
+    T temp = x;
+    x = y;
+    y = temp
+}
+
